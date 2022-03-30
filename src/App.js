@@ -1,9 +1,10 @@
 import React from "react";
+import UseRefExample1 from "./components/UseRefExample1";
 
 export default function App() {
   return (
     <div className="mt-5">
-      <h1>Hello</h1>
+      <UseRefExample1 />
     </div>
   );
 }
