@@ -1,10 +1,10 @@
 import React from "react";
-import UseCallbackExample from "./components/UseCallbackExample";
+import CustomHookExample1 from "./components/CustomHookExample1";
 
 export default function App() {
   return (
     <div className="mt-5">
-      <UseCallbackExample />
+      <CustomHookExample1 />
     </div>
   );
 }
