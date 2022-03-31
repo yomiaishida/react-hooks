@@ -1,10 +1,10 @@
 import React from "react";
-import UseMemoExample from "./components/UseMemoExample";
+import UseCallbackExample from "./components/UseCallbackExample";
 
 export default function App() {
   return (
     <div className="mt-5">
-      <UseMemoExample />
+      <UseCallbackExample />
     </div>
   );
 }
