@@ -1,10 +1,10 @@
 import React from "react";
-import CustomHookExample1 from "./components/CustomHookExample1";
+import CustomHookExample2 from "./components/CustomHookExample2";
 
 export default function App() {
   return (
     <div className="mt-5">
-      <CustomHookExample1 />
+      <CustomHookExample2 />
     </div>
   );
 }
